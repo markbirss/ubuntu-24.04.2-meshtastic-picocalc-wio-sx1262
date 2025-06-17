@@ -15,3 +15,10 @@ f00709ff69bec0df4c7d8afdc1639f3f76c90eca73cd38e718e0b59dd9e5570b  uboot.img
 aba736e3907ced27d58e9633fa3ce02114b2382a16e5923ad1b4a9aa3acb2915  update.img
 ```
 
+[Disclaimer] Comes without any warranty whatsoever, use at own risk
+
+[Credits] hiro fu - hisptoot [PicoCalc Drivers - keyboard, pwm, sound and video
+
+Support my work and considder buying me a coffee
+
+https://buymeacoffee.com/mark.birss
