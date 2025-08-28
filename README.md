@@ -19,6 +19,6 @@ aba736e3907ced27d58e9633fa3ce02114b2382a16e5923ad1b4a9aa3acb2915  update.img
 
 [Credits] hiro fu - hisptoot [PicoCalc Drivers - keyboard, pwm, sound and video
 
-Support my work and considder buying me a coffee
+Support my work and consider buying me a coffee
 
 https://buymeacoffee.com/mark.birss
